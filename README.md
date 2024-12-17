@@ -1,7 +1,12 @@
 
+![제목 없음-1](https://github.com/user-attachments/assets/2658178e-3c5a-4e29-8b8f-a5d33dbc1030)
+
+
+
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 국립목포해양대 학식 챗 봇 '목해대도 식후경' </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 기존의 학식 메뉴를 확인하기 위해 일일이 학교 게시판에 들어가 메뉴를 확인해왔던 불편함을 탈피해보고자 개발된 파이썬 & AWS Lambda 기반으로 동작하는 카카오톡 챗 봇 서비스입니다.</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 기존의 학식 메뉴를 확인하기 위해 일일이 학교 게시판에 들어가 메뉴를 확인해왔던 불편함을 탈피해보고자 개발된 파이썬 & AWS Lambda 기반으로 동작하는 카카오톡 챗 봇 서비스입니다.
+    </li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -11,6 +16,7 @@
     </div>
     
 &nbsp;
+
 &nbsp;
 
 
